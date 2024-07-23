@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Rvo1ItANdw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Application.Service\\Application.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Microwest\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Microwest\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Microwest\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

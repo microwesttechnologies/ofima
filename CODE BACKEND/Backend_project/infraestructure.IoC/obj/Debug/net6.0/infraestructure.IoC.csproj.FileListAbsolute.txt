@@ -1,0 +1,63 @@
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\infraestructure.IoC.deps.json
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\infraestructure.IoC.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\infraestructure.IoC.pdb
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\Application.Service.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\Domain.Services.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\Infraestructure.PersistenceEFCore.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\Application.Service.pdb
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\Infraestructure.PersistenceEFCore.pdb
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\bin\Debug\net6.0\Domain.Services.pdb
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.csproj.AssemblyReference.cache
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.AssemblyInfoInputs.cache
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.AssemblyInfo.cs
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.csproj.CopyComplete
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\obj\Debug\net6.0\refint\infraestructure.IoC.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.pdb
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\infraestructure.IoC\obj\Debug\net6.0\ref\infraestructure.IoC.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\infraestructure.IoC.deps.json
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\infraestructure.IoC.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\infraestructure.IoC.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Application.Service.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Domain.Services.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Infraestructure.PersistenceEFCore.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Application.Service.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Infraestructure.PersistenceEFCore.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Domain.Services.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.csproj.AssemblyReference.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.AssemblyInfoInputs.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.AssemblyInfo.cs
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraest.62671F65.Up2Date
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\obj\Debug\net6.0\refint\infraestructure.IoC.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\infraestructure.IoC\obj\Debug\net6.0\ref\infraestructure.IoC.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\infraestructure.IoC.deps.json
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\infraestructure.IoC.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\infraestructure.IoC.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Application.Service.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Domain.Services.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Infraestructure.PersistenceEFCore.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Application.Service.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Infraestructure.PersistenceEFCore.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\bin\Debug\net6.0\Domain.Services.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.csproj.AssemblyReference.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.AssemblyInfoInputs.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.AssemblyInfo.cs
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraest.62671F65.Up2Date
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\obj\Debug\net6.0\refint\infraestructure.IoC.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\obj\Debug\net6.0\infraestructure.IoC.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\infraestructure.IoC\obj\Debug\net6.0\ref\infraestructure.IoC.dll

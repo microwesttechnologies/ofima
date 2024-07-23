@@ -1,0 +1,45 @@
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\bin\Debug\net6.0\Domain.Services.deps.json
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\bin\Debug\net6.0\Domain.Services.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\bin\Debug\net6.0\Domain.Services.pdb
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\obj\Debug\net6.0\Domain.Services.csproj.AssemblyReference.cache
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\obj\Debug\net6.0\Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\obj\Debug\net6.0\Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\obj\Debug\net6.0\Domain.Services.AssemblyInfo.cs
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\obj\Debug\net6.0\Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\obj\Debug\net6.0\Domain.Services.csproj.CopyComplete
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\obj\Debug\net6.0\Domain.Services.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\obj\Debug\net6.0\refint\Domain.Services.dll
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\obj\Debug\net6.0\Domain.Services.pdb
+C:\Users\Project Microwest\Desktop\PROJECT-CASTOR\CRUD-SCRUM\Domain.Services\obj\Debug\net6.0\ref\Domain.Services.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\bin\Debug\net6.0\Domain.Services.deps.json
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\bin\Debug\net6.0\Domain.Services.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\bin\Debug\net6.0\Domain.Services.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.csproj.AssemblyReference.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.AssemblyInfo.cs
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.S.44836E94.Up2Date
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\obj\Debug\net6.0\refint\Domain.Services.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE HEXAGONAL\Backend_project\Domain.Services\obj\Debug\net6.0\ref\Domain.Services.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\bin\Debug\net6.0\Domain.Services.deps.json
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\bin\Debug\net6.0\Domain.Services.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\bin\Debug\net6.0\Domain.Services.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.csproj.AssemblyReference.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.AssemblyInfo.cs
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.S.44836E94.Up2Date
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\obj\Debug\net6.0\refint\Domain.Services.dll
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\obj\Debug\net6.0\Domain.Services.pdb
+C:\Users\Microwest\Desktop\SOURCES CODE\CODE BACKEND\Backend_project\Domain.Services\obj\Debug\net6.0\ref\Domain.Services.dll

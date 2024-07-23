@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A80A6A-1B28-4FDE-917F-B20FAAAB7DD9}|Domain.Model\\Domain.Model.csproj|c:\\users\\microwest\\desktop\\sources code\\code backend\\backend_project\\domain.model\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A80A6A-1B28-4FDE-917F-B20FAAAB7DD9}|Domain.Model\\Domain.Model.csproj|solutionrelative:domain.model\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FB5587-3455-46BF-B88D-766126126493}|Application.Service\\Application.Service.csproj|c:\\users\\microwest\\desktop\\sources code\\code backend\\backend_project\\application.service\\menufeature\\queries\\getallmenu\\getallmenuquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FB5587-3455-46BF-B88D-766126126493}|Application.Service\\Application.Service.csproj|solutionrelative:application.service\\menufeature\\queries\\getallmenu\\getallmenuquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FB5587-3455-46BF-B88D-766126126493}|Application.Service\\Application.Service.csproj|c:\\users\\microwest\\desktop\\sources code\\code backend\\backend_project\\application.service\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FB5587-3455-46BF-B88D-766126126493}|Application.Service\\Application.Service.csproj|solutionrelative:application.service\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FB5587-3455-46BF-B88D-766126126493}|Application.Service\\Application.Service.csproj|c:\\users\\microwest\\desktop\\sources code\\code backend\\backend_project\\application.service\\employeefeature\\queries\\getallemployee\\getallemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FB5587-3455-46BF-B88D-766126126493}|Application.Service\\Application.Service.csproj|solutionrelative:application.service\\employeefeature\\queries\\getallemployee\\getallemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E32F909-ED61-4890-A3B1-C66D3476CF9C}|Domain.Services\\Domain.Services.csproj|c:\\users\\microwest\\desktop\\sources code\\code backend\\backend_project\\domain.services\\repositories\\igetallmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E32F909-ED61-4890-A3B1-C66D3476CF9C}|Domain.Services\\Domain.Services.csproj|solutionrelative:domain.services\\repositories\\igetallmenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllEmployeeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Application.Service\\EmployeeFeature\\Queries\\GetAllEmployee\\GetAllEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "Application.Service\\EmployeeFeature\\Queries\\GetAllEmployee\\GetAllEmployeeQuery.cs",
+              "ToolTip": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Application.Service\\EmployeeFeature\\Queries\\GetAllEmployee\\GetAllEmployeeQuery.cs",
+              "RelativeToolTip": "Application.Service\\EmployeeFeature\\Queries\\GetAllEmployee\\GetAllEmployeeQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:11:53.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Application.Service\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "Application.Service\\DependencyContainer.cs",
+              "ToolTip": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Application.Service\\DependencyContainer.cs",
+              "RelativeToolTip": "Application.Service\\DependencyContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:08:48.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGetAllMenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Domain.Services\\Repositories\\IGetAllMenuRepository.cs",
+              "RelativeDocumentMoniker": "Domain.Services\\Repositories\\IGetAllMenuRepository.cs",
+              "ToolTip": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Domain.Services\\Repositories\\IGetAllMenuRepository.cs",
+              "RelativeToolTip": "Domain.Services\\Repositories\\IGetAllMenuRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:59:13.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Domain.Model\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "Domain.Model\\Entities\\Menu.cs",
+              "ToolTip": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Domain.Model\\Entities\\Menu.cs",
+              "RelativeToolTip": "Domain.Model\\Entities\\Menu.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:53:19.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllMenuQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Application.Service\\MenuFeature\\Queries\\GetAllMenu\\GetAllMenuQuery.cs",
+              "RelativeDocumentMoniker": "Application.Service\\MenuFeature\\Queries\\GetAllMenu\\GetAllMenuQuery.cs",
+              "ToolTip": "C:\\Users\\Microwest\\Desktop\\SOURCES CODE\\CODE BACKEND\\Backend_project\\Application.Service\\MenuFeature\\Queries\\GetAllMenu\\GetAllMenuQuery.cs",
+              "RelativeToolTip": "Application.Service\\MenuFeature\\Queries\\GetAllMenu\\GetAllMenuQuery.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:53:00.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
