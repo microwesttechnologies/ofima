@@ -1,0 +1,11 @@
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\bin\Debug\net7.0\API.Domain.deps.json
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\bin\Debug\net7.0\API.Domain.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\bin\Debug\net7.0\API.Domain.pdb
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\obj\Debug\net7.0\API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\obj\Debug\net7.0\API.Domain.AssemblyInfoInputs.cache
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\obj\Debug\net7.0\API.Domain.AssemblyInfo.cs
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\obj\Debug\net7.0\API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\obj\Debug\net7.0\API.Domain.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\obj\Debug\net7.0\refint\API.Domain.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\obj\Debug\net7.0\API.Domain.pdb
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Domain\obj\Debug\net7.0\ref\API.Domain.dll

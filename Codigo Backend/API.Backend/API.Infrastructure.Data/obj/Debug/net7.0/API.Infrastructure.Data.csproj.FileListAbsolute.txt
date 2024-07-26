@@ -1,0 +1,17 @@
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\bin\Debug\net7.0\API.Infrastructure.Data.deps.json
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\bin\Debug\net7.0\API.Infrastructure.Data.runtimeconfig.json
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\bin\Debug\net7.0\API.Infrastructure.Data.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\bin\Debug\net7.0\API.Infrastructure.Data.pdb
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\bin\Debug\net7.0\API.Domain.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\bin\Debug\net7.0\API.Domain.pdb
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\API.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\API.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\API.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\API.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\API.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\API.Infr.1FA36680.Up2Date
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\API.Infrastructure.Data.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\refint\API.Infrastructure.Data.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\API.Infrastructure.Data.pdb
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\API.Infrastructure.Data.genruntimeconfig.cache
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Infrastructure.Data\obj\Debug\net7.0\ref\API.Infrastructure.Data.dll

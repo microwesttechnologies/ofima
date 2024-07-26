@@ -1,0 +1,15 @@
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\bin\Debug\net7.0\API.Application.deps.json
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\bin\Debug\net7.0\API.Application.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\bin\Debug\net7.0\API.Application.pdb
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\bin\Debug\net7.0\API.Domain.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\bin\Debug\net7.0\API.Domain.pdb
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\obj\Debug\net7.0\API.Application.csproj.AssemblyReference.cache
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\obj\Debug\net7.0\API.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\obj\Debug\net7.0\API.Application.AssemblyInfoInputs.cache
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\obj\Debug\net7.0\API.Application.AssemblyInfo.cs
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\obj\Debug\net7.0\API.Application.csproj.CoreCompileInputs.cache
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\obj\Debug\net7.0\API.Appl.954B91A3.Up2Date
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\obj\Debug\net7.0\API.Application.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\obj\Debug\net7.0\refint\API.Application.dll
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\obj\Debug\net7.0\API.Application.pdb
+C:\Users\Microwest\Desktop\Entregable Ofima\Codigo Backend\API.Backend\API.Application\obj\Debug\net7.0\ref\API.Application.dll
