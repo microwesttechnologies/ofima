@@ -18,6 +18,7 @@ namespace API.Domain.Entity
         public int id_subcategory { get; set; }
         public string name_subcategory { get; set; }
         public int id_category { get; set; }
+        public string Command { get; set; }
         public MenuEntity Category_menu { get; set; }
         public ICollection<SubmenuEntity> Submenu_menu { get; set; }
     }
@@ -28,6 +29,7 @@ namespace API.Domain.Entity
         public int id_submenu { get; set; }
         public string name_submenu { get; set; }
         public int id_subcategory { get; set; }
+        public string Command { get; set; }
         public SubcategoryEntity Subcategory_menu { get; set; }
         public ICollection<FinalmenuEntity> Finalmenu_menu { get; set; }
     }
@@ -38,6 +40,7 @@ namespace API.Domain.Entity
         public int id_finalmenu { get; set; }
         public string name_finalmenu { get; set; }
         public int id_submenu { get; set; }
+        public string Command { get; set; }
         public SubmenuEntity Submenu_menu { get; set; }
     }
 }

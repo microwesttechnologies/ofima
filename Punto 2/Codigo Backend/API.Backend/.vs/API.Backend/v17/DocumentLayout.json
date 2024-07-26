@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Microwest\\Desktop\\Entregable Ofima\\Codigo Backend\\API.Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1223507C-98C0-411D-81B7-A3B799D94916}|API.Infrastructure.Data\\API.Infrastructure.Data.csproj|c:\\users\\microwest\\desktop\\entregable ofima\\codigo backend\\api.backend\\api.infrastructure.data\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1223507C-98C0-411D-81B7-A3B799D94916}|API.Infrastructure.Data\\API.Infrastructure.Data.csproj|solutionrelative:api.infrastructure.data\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Microwest\\Desktop\\Entregable Ofima\\Codigo Backend\\API.Backend\\API.Infrastructure.Data\\Repository\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "API.Infrastructure.Data\\Repository\\MenuRepository.cs",
+              "ToolTip": "C:\\Users\\Microwest\\Desktop\\Entregable Ofima\\Codigo Backend\\API.Backend\\API.Infrastructure.Data\\Repository\\MenuRepository.cs",
+              "RelativeToolTip": "API.Infrastructure.Data\\Repository\\MenuRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:48:14.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
