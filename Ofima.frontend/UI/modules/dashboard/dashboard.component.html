@@ -1,0 +1,13 @@
+<app-s-menu [items]="items"></app-s-menu>
+
+<div class="cards-container">
+    <div class="fadeinleft  animation-duration-2000" *ngFor="let card of cards">
+      <app-s-card 
+      
+        [subtitle]="card.subtitle"
+        [image]="card.image"
+        [title]="card.title">
+      </app-s-card>
+    </div>
+  </div>
+  

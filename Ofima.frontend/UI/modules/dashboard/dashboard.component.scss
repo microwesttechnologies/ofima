@@ -1,0 +1,21 @@
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px; 
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  app-s-card {
+    flex: 1 1 200px;
+  }
+
+  app-s-menu {
+    position: fixed;
+    z-index: 1000;
+  }
+
+
+  
