@@ -1,0 +1,82 @@
+﻿@model X.PagedList.IPagedList<App_Paises.Models.CountryModel>
+@using X.PagedList.Mvc.Core
+
+@{
+    ViewData["Title"] = "Countries";
+}
+
+<h2>Paises del mundo</h2>
+
+<form data-aos="fade-up" method="get" asp-action="Index" id="searchForm">
+    <div class="form-group">
+        <input type="text" name="searchKeyword" value="@ViewBag.SearchKeyword" class="form-control" placeholder="Buscar por nombre de país" id="searchInput" autocomplete="off" />
+    </div>
+</form>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            let debounceTimer;
+
+            $('#searchInput').on('input', function () {
+                clearTimeout(debounceTimer);
+                debounceTimer = setTimeout(function () {
+                    $.ajax({
+                        url: '@Url.Action("Index")',
+                        type: 'GET',
+                        data: $('#searchForm').serialize(),
+                        success: function (data) {
+                            $('#results').html(data);
+                        }
+                    });
+                }, 300); 
+            });
+        });
+
+        AOS.init({
+            duration: 1200,
+        })
+    </script>
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+
+</head>
+
+<table data-aos="fade-up" class="table">
+    <thead>
+        <tr>
+            <th>Pais</th>
+            <th>Codigo Pais</th>
+            <th>Codigo moneda</th>
+            <th>Nombre de la moneda</th>
+            <th>Capital</th>
+            <th>Bandera</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var country in Model)
+        {
+            <tr>
+                <td>@country.Names?.Common</td>
+                <td>@country.Cca2</td>
+                <td>@country.Currencies?.FirstOrDefault().Key</td>
+                <td>@country.Currencies?.FirstOrDefault().Value?.Name</td>
+                <td>@(country.Capital != null && country.Capital.Any() ? country.Capital.First() : "N/A")</td>
+                <td>@if (country.Bandera != null && !string.IsNullOrEmpty(country.Bandera.Svg))
+                    {
+                        <img src="@country.Bandera.Svg" alt="Flag" style="width: 50px; height: auto;" />
+                    }
+                    </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, searchKeyword = ViewBag.SearchKeyword }))
+</div>
+
+</html>

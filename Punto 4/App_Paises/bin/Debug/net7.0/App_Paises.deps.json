@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "App_Paises/1.0.0": {
+        "dependencies": {
+          "X.PagedList.Mvc.Core": "10.0.3"
+        },
+        "runtime": {
+          "App_Paises.dll": {}
+        }
+      },
+      "X.PagedList/10.0.3": {
+        "runtime": {
+          "lib/net6.0/X.PagedList.dll": {
+            "assemblyVersion": "10.0.3.0",
+            "fileVersion": "10.0.3.0"
+          }
+        }
+      },
+      "X.PagedList.Mvc.Core/10.0.3": {
+        "dependencies": {
+          "X.PagedList": "10.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/X.PagedList.Mvc.Core.dll": {
+            "assemblyVersion": "10.0.3.0",
+            "fileVersion": "10.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App_Paises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "X.PagedList/10.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HIYIXYlqIWrhedP1ext7bG1Bj3LS8X7zgNrZlrPdcQBbXCjns+QXudVbadzZq9tLrfQJmVowJirwCM1pONyeBg==",
+      "path": "x.pagedlist/10.0.3",
+      "hashPath": "x.pagedlist.10.0.3.nupkg.sha512"
+    },
+    "X.PagedList.Mvc.Core/10.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-awvBpTZDO4owGOhcejD0NzSGftsogBq5yRBMhQn8LNjoUaCcubYifOQQLSYVZlrPeiiJjJxU5BcMRDALmaA6UQ==",
+      "path": "x.pagedlist.mvc.core/10.0.3",
+      "hashPath": "x.pagedlist.mvc.core.10.0.3.nupkg.sha512"
+    }
+  }
+}

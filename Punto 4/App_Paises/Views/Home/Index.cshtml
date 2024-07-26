@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@section Scripts {
+    <script>
+        AOS.init({
+            duration: 1200,
+        })
+    </script>
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+
+    </head>
+<div data-aos="fade-left" class="text-center">
+    <h1 class="display-4">Bienvenido</h1>
+    <p>Ingresa a la <a asp-controller="Countries"> App Paises</a>.</p>
+</div>
+    
+</html>
+
